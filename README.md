@@ -24,7 +24,7 @@ This project focuses on:
 
 ##  Dataset Description
 
-**Source**: [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/atharvaarya25/financials))  
+**Source**: [Kaggle][https://www.kaggle.com/datasets/atharvaarya25/financials] 
 **Original Dataset**: Included CSV with multiple stock prices and company information.
 
 The dataset includes:
@@ -60,6 +60,6 @@ The final dashboard includes:
 -  **KPI Cards**: Key financial indicators like average returns, volume, etc.
 -  **Interactive Filters**: Drill-downs by date, sector, and company
 
-
-
 ---
+You can view the dashboard here:
+[https://public.tableau.com/app/profile/prerna.pawar1303/viz/TableauFinancialDashboard_17443400970680/Dashboard1?publish=yes]
